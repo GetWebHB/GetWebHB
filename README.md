@@ -1,9 +1,12 @@
 ### Welcome Hi~ This is GetWebHB, a frontend rookie 🐦.
 
-山不向我走来 我便向山走去
+  山不向我走来 我便向山走去
 
+![top-langs][top-langs]  
 ![github-status][github-status]
-[github-status]: https://github-readme-stats.vercel.app/api?username=GetWebHB
+
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=MadCcc
+[github-status]: https://github-readme-stats.vercel.app/api?username=MadCcc
 
 <!--
 **GetWebHB/GetWebHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
