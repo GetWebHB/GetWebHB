@@ -1,5 +1,7 @@
 ### Welcome Hi~ This is GetWebHB, a frontend rookie 🐦.
 
+山不向我走来 我便向山走去
+
 ![top-langs][top-langs]  
 ![github-status][github-status]
 
