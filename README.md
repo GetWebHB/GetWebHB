@@ -2,10 +2,7 @@
 
 山不向我走来 我便向山走去
 
-![top-langs][top-langs]  
 ![github-status][github-status]
-
-[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=GetWebHB
 [github-status]: https://github-readme-stats.vercel.app/api?username=GetWebHB
 
 <!--
