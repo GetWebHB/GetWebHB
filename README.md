@@ -10,11 +10,6 @@
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
-### 📫 Reach me:
-
-- **WeChat** : iceweb19991014
-- **E-mail** : 1999iceweb@gmail.com
-
 ### 🏠 Blog:
 
 - **https://juejin.cn/user/817692383915838**
